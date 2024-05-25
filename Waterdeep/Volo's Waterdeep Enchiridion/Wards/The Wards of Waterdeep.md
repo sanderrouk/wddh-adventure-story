@@ -4,6 +4,7 @@ Each ward has its own history, legends, and traditions based around who lived th
 
 These shared stories and traditions impart to each ward a different culture, just as much as distinctions of class and wealth. Yet nothing drives residents to identify with their wards as much as festivals and sport. Nearly every race and parade in the city features a competition between wards as part of the festivities. On such days, homes and businesses fly the colors of their wards, trot out their mascots, and sing rousing songs that celebrate where they live. If you stay in the city for even a month, you’re sure to see some version of this display of civic spirit.
 
+>[!quote]
 > **SPEAK LIKE A NATIVE**
 > 
 The many idioms and slang expressions of Waterdavians would take a whole book to explore, but here I explain a few that might otherwise mystify.
