@@ -17,13 +17,13 @@ Being a noble carries with it a great deal of advantage. Operating from one’s 
 
 Although they seldom agree on much, one matter that all the noble houses see the same way is that their status should not be tainted by newcomers, and certainly not by anyone so brightcoin as to purchase one’s way to a noble title. When during Lord Neverember’s tenure it became legal for impoverished houses to sell their titles, and thus allow others to become noble, many leaders of the old-blood houses were apoplectic, particularly after some purchasers lost all their coin and sold their titles again within a season or two. Open Lord Laeral Silverhand has, to the relief of those leaders, seen the folly of this decision, and gathered enough support among the Lords of Waterdeep to not only reverse it, but to restore titles and lands to noble families who lost them through folly. The change has won her much support among the nobles. Now Zhents and Thayans and Baldurian merchants have coin enough to buy property within the city, if they choose, but that is no reason to award them noble titles and legal rights, instead of merely a mansion, for doing so.
 
-## THE WARDS OF WATERDEEP
+## [[THE WARDS OF WATERDEEP]]
 
 Waterdeep has long been divided into several large regions called wards. To locals these are essential to Waterdeep, but outsiders often lose track of which ward they’re in or what a ward’s name signifies. The names of the wards suggest the contents of the buildings and the character of the activity in each one, but no laws exist that restrict a given activity or class of people to any specific ward.
 
 _**[[Castle Ward]].**_ As the name indicates, [[Castle Ward]] contains Castle Waterdeep, Piergeiron’s Palace, and many other public buildings of the city. This ward is home to mainly the wealthy or influential who can’t count themselves among the nobility. Other structures are taken up by educational or religious concerns that primarily serve the city at large, not the residents of the ward.
 
-_**[[Dock Ward]].**_ Most of the city’s harbor area is located in Dock Ward, as are the businesses and warehouses that depend on the city’s newly restored harbor. It’s a crowded neighborhood of many winding streets, where folk are comfortable making deals that might in other places provoke the displeasure of the law.
+_**[[Dock Ward]].**_ Most of the city’s harbor area is located in [[Dock Ward]], as are the businesses and warehouses that depend on the city’s newly restored harbor. It’s a crowded neighborhood of many winding streets, where folk are comfortable making deals that might in other places provoke the displeasure of the law.
 
 _**Field Ward.**_ Of relatively recent vintage, the Field Ward stands between the inner and outer north walls of the city (an area formerly used as a caravan grounds). This ward grew up in a messy, unregulated fashion and is home to many of the poorest residents of the city.
 
@@ -33,7 +33,7 @@ _**Sea Ward.**_ Those whose fortunes are on the rise build their homes in Sea W
 
 _**Southern Ward.**_ Stables, warehouses, and shops related to overland trade dominate Southern Ward. Most residents are hardworking folk that load and unload caravan carts, and otherwise perform low-paying work.
 
-_**Trades Ward.**_ A narrow slice of land between the Castle Ward and the City of the Dead, Trades Ward is the center of commerce for the city, with most of the smaller transactions and respectable trade taking place here.
+_**Trades Ward.**_ A narrow slice of land between the [[Castle Ward]] and the City of the Dead, Trades Ward is the center of commerce for the city, with most of the smaller transactions and respectable trade taking place here.
 
 _**City of the Dead.**_ The city’s walled cemetery, the City of the Dead is the only place in Waterdeep where it is legal to bury the deceased. It is used by many citizens as a public park during the day, a lovely green space of pretty mausoleums and grand statues in which to escape the city’s hustle and bustle.
 

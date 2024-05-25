@@ -15,11 +15,11 @@ Fueled by sorrow and a desire to undo the horror that had befallen his family, W
 #### The Endless Search
 Haunted by his failure and the image of his mother's undead form, Willy swore to master the dark arts in hopes of finding a way to truly bring his parents back to life. He abandoned his ancestral home, embarking on a quest for forbidden knowledge. His journey took him through ancient ruins, dark forests, and hidden catacombs, where he delved deeper into the secrets of necromancy. As decades turned into centuries, Willy's pursuit became an obsession, his once noble spirit gradually eroded by the dark powers he sought to command.
 
-#### Arrival in Waterdeep
+#### Arrival in [[Waterdeep]]
 After centuries of wandering, Willy's quest brought him to [[Waterdeep]], the City of Splendors. [[Waterdeep]], with its vast resources and myriad of arcane scholars, offered new opportunities for Willy to continue his studies. He joined the Wizards' Guild, where his extensive knowledge and unique talents earned him a place of respect, albeit tinged with the fear and suspicion his necromantic focus attracted.
 
 #### A Life Extended
-In Waterdeep, Willy remained for centuries, his elven lifespan allowing him to accumulate vast knowledge and power. His time with the Wizards' Guild granted him access to rare tomes and powerful artifacts, yet the secret to true resurrection continued to elude him. As the years passed, Willy's once vibrant appearance faded, replaced by a gaunt, ethereal presence that spoke of his prolonged exposure to dark magic.
+In [[Waterdeep]], Willy remained for centuries, his elven lifespan allowing him to accumulate vast knowledge and power. His time with the Wizards' Guild granted him access to rare tomes and powerful artifacts, yet the secret to true resurrection continued to elude him. As the years passed, Willy's once vibrant appearance faded, replaced by a gaunt, ethereal presence that spoke of his prolonged exposure to dark magic.
 
 #### Current State
 Now, at the age of 704, Willy is a figure of mystery and dread within [[Waterdeep]]. Though he has found a semblance of stability within the Wizards' Guild, his quest is far from over. He continues to search tirelessly for a way to undo the tragedy that has defined his life, driven by a desperate hope that one day, he might finally lay his parents' souls to rest and find peace for himself.

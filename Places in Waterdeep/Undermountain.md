@@ -1,4 +1,4 @@
-Undermountain is a vast and sprawling dungeon complex that lies beneath the bustling city of Waterdeep. Known as the "Dungeon of the Mad Mage," it is one of the most infamous and dangerous labyrinths in the world of Faerûn. The dungeon is a place of mystery, peril, and immense treasure, attracting adventurers from all corners of the realm.
+Undermountain is a vast and sprawling dungeon complex that lies beneath the bustling city of [[Waterdeep]]. Known as the "Dungeon of the Mad Mage," it is one of the most infamous and dangerous labyrinths in the world of Faerûn. The dungeon is a place of mystery, peril, and immense treasure, attracting adventurers from all corners of the realm.
 
 #### **Origins and Creation**
 

@@ -1,4 +1,4 @@
-**Foreword:** This is a DND 5e adventure log for characters who are going through [Waterdeep: Dragon Heist](https://www.dndbeyond.com/sources/wdh), this is a [Obsidian](https://obsidian.md/) document, while it is just a collection of .md files it is best parsed with Obisidian, as it leverages some features for it.
+**Foreword:** This is a DND 5e adventure log for characters who are going through [[[Waterdeep]]: Dragon Heist](https://www.dndbeyond.com/sources/wdh), this is a [Obsidian](https://obsidian.md/) document, while it is just a collection of .md files it is best parsed with Obisidian, as it leverages some features for it.
 
 **To players reading this:** Keep in mind that these documents may contain facts your character doesn't necessarily know, the documents in `Tale of adventureres` folder are safe to read for any character, the links contained within should be safe to read and contain no spoilers, they might just contain info that the character doesn't necessarily know. The documents in `Waterdeep/Volo's Waterdeep Enchiridion` are safe to read for any character as they come from a document that can easily be obtained by all of the party members.
 # Waterdeep: Dragon Heist
@@ -16,9 +16,9 @@ From the bustling taverns where secrets are whispered over mugs of ale to the tr
 
 In the first article, we delve into the heroics at [[the Yawning Portal]] Inn, where a typical night of revelry turned into a harrowing battle against a monstrous troll. [[Durnan]], the stalwart barkeep, and four mysterious adventurers fought valiantly to protect the patrons from the terror that emerged from the infamous pit. Their actions not only saved lives but also sparked curiosity about the identities and motives of these enigmatic heroes.
 
-As you journey through these narratives, you will encounter the diverse cast of characters that make Waterdeep a city like no other. You will walk alongside those who seek glory and those who chase shadows, those who uphold the law and those who subvert it. Each story is a thread in the rich tapestry of Waterdeep: Dragon Heist, weaving a picture of a city alive with opportunity and peril.
+As you journey through these narratives, you will encounter the diverse cast of characters that make [[Waterdeep]] a city like no other. You will walk alongside those who seek glory and those who chase shadows, those who uphold the law and those who subvert it. Each story is a thread in the rich tapestry of Waterdeep: Dragon Heist, weaving a picture of a city alive with opportunity and peril.
 
-We invite you to lose yourself in these stories, to feel the pulse of adventure that drives these brave souls, and to ponder the mysteries that await in the pages ahead. Whether you are a seasoned adventurer or a curious onlooker, may these tales inspire and enthrall you, as we embark on this journey through the heart of Waterdeep together.
+We invite you to lose yourself in these stories, to feel the pulse of adventure that drives these brave souls, and to ponder the mysteries that await in the pages ahead. Whether you are a seasoned adventurer or a curious onlooker, may these tales inspire and enthrall you, as we embark on this journey through the heart of [[Waterdeep]] together.
 
 Welcome to the adventure. Welcome to Waterdeep: Dragon Heist.
 

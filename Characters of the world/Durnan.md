@@ -5,4 +5,4 @@ If Durnan has any living family members, he doesn’t speak of them. He rarely s
 
 He keeps Grimvault, his magic greatsword, within reach under the bar, and can chop tables in half with it if he so desires. He also can pull out a double crossbow (a heavy crossbow with reduced range that fires two bolts at the same target). Still, if he gets involved in a brawl, he prefers fighting with fists or a well-flung tankard.
 
-Durnan doesn’t often venture far from [[the Yawning Portal]], using his employees to run errands for him as needed. If he’s feeling charitable, he might gently discourage likable “nobodies” from venturing into Undermountain, if he thinks they wouldn’t survive. He can also direct adventurers toward tavern regulars who might be able to help them or offer useful information.
+Durnan doesn’t often venture far from [[the Yawning Portal]], using his employees to run errands for him as needed. If he’s feeling charitable, he might gently discourage likable “nobodies” from venturing into [[Undermountain]], if he thinks they wouldn’t survive. He can also direct adventurers toward tavern regulars who might be able to help them or offer useful information.

@@ -2,7 +2,7 @@ The Zhentarim, (pronounced: /zzˈhɛntɑːrɪm/ zz-HENT-ah-rim) previously known
 
 The Black Network has an open recruitment policy. Anyone can join. Tenacity and loyalty are highly valued (but not essential) traits in new members.
 
-The Zhentarim is a shadow organization that trades mercenaries and goods (including weapons) for profit. It has long sought to gain political influence in Waterdeep, but the strength of the city’s Masked Lords, nobility, and professional guilds makes that difficult.
+The Zhentarim is a shadow organization that trades mercenaries and goods (including weapons) for profit. It has long sought to gain political influence in [[Waterdeep]], but the strength of the city’s Masked Lords, nobility, and professional guilds makes that difficult.
 
 The Zhentarim in [[Waterdeep]] is a fractured organization. Those who support [[Manshoon]] want to destroy [[Xanathar Guild]] and seize political and economic control of the city. Those who oppose [[Manshoon]] want to expose and destroy him before they are themselves apprehended or driven out of the city by the local authorities.
 
