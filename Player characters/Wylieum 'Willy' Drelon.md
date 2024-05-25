@@ -1,4 +1,6 @@
 ![[Willy.webp]]
+> [!warning]
+> Contains content the players should not know yet!
 ### Character Background: Wylieum Drelon
 
 #### Early Life

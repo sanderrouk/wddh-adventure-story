@@ -1,4 +1,4 @@
->[!info]
+>[!note]
 >**Foreword:** This is a DND 5e adventure log for characters who are going through [Waterdeep: Dragon Heist](https://www.dndbeyond.com/sources/wdh), this is a [Obsidian](https://obsidian.md/) document, while it is just a collection of .md files it is best parsed with Obisidian, as it leverages some features for it.
 
 >[!warning]
