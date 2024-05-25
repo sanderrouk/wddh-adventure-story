@@ -1,0 +1,2 @@
+![Troll](https://www.dndbeyond.com/avatars/thumbnails/30836/144/1000/1000/638063929586218907.png)
+Fearsome green-skinned giants, trolls eat anything they can catch and devour. The characters noticed the creature was able to regenerate chunks of itself. After some magic that prevented regeneration, the Troll did finally drop dead. The barkeep [[Durnan]] did tell everyone to use fire on the troll.

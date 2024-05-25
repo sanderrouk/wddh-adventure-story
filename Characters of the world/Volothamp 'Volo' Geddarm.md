@@ -1,0 +1,2 @@
+![Volo](https://www.dndbeyond.com/attachments/thumbnails/4/262/850/574/c1001.png)
+Volothamp Geddarm is known to most Waterdavians as a braggart and a notorious embellisher of facts. For all his faults, though, Volo is a soft-hearted sort who cares for nothing as much as his friends. At present, he is grievously concerned for the well-being of one of them. He begins his request with an air of charm and mystery, but it quickly devolves into tearful sincerity.
