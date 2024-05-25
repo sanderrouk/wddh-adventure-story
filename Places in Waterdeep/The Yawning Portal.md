@@ -4,12 +4,8 @@ In ages past, the mighty wizard Halaster built his tower at the foot of Mount [[
 
 For untold years, the secrets of [[Undermountain]] remained hidden from the surface world. Everyone who entered its halls failed to return. Its reputation as a death trap grew to the point that criminals in [[Waterdeep|Waterdeep]] who were sentenced to die were forcibly escorted into the dungeon and left to fend for themselves.
 
-Adventurers from across Faerûn, and even from elsewhere in the great span of the multiverse, visit the Yawning Portal to exchange knowledge about [[Undermountain]] and other dungeons. Most visitors are content to swap stories by the hearth, but sometimes a group driven by greed, ambition, or desperation pays the toll for entry and descends the well. Most don’t survive to make the return trip, but enough come back with riches and tales of adventure to tempt other groups into trying their luck.
-
-# For characters with in-depth knowledge of [[Waterdeep|Waterdeep]] lore:
-
-----
-
 All of that changed with the arrival of two men, a warrior named [[Durnan]] and a ne’er-do-well named Mirt. The duo were the first adventurers to return from [[Undermountain]], laden with riches and magic treasures. While Mirt used his wealth to buy a mansion, [[Durnan]] had different plans. [[Durnan]] retired from adventuring and purchased the land on which sat the deep, broad well that was the only known entrance to the dungeon. Around this well he built a tavern and inn that caters to adventurers and those who seek their services, and he called it the Yawning Portal.
 
 Some of the magic [[Durnan]] looted on his successful foray into [[Undermountain]] granted him a life span that exceeds even that of an elf. And for decades [[Durnan]] left delving into [[Undermountain]] to younger folk. Yet one day, something drew him back. Days of waiting for his triumphant return from the dungeon turned to months and then years. For nearly a century, citizens of [[Waterdeep|Waterdeep]] thought him dead. But one night, a voice called up from the well. Few at first believed it could be [[Durnan]], but folk as long-lived as he vouched it so. The Yawning Portal had passed into the hands of his ancestors, but [[Durnan]] returned with enough riches for them to quietly retire. [[Durnan]] took his customary place behind the bar, raised a toast to his own safe return, and then began serving customers as if he’d never left.
+
+Adventurers from across Faerûn, and even from elsewhere in the great span of the multiverse, visit the Yawning Portal to exchange knowledge about [[Undermountain]] and other dungeons. Most visitors are content to swap stories by the hearth, but sometimes a group driven by greed, ambition, or desperation pays the toll for entry and descends the well. Most don’t survive to make the return trip, but enough come back with riches and tales of adventure to tempt other groups into trying their luck.
