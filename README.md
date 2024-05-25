@@ -1,9 +1,10 @@
 **Foreword:** This is a DND 5e adventure log for characters who are going through [Waterdeep: Dragon Heist](https://www.dndbeyond.com/sources/wdh), this is a [Obsidian](https://obsidian.md/) document, while it is just a collection of .md files it is best parsed with Obisidian, as it leverages some features for it.
 
 **To players reading this:** Keep in mind that these documents may contain facts your character doesn't necessarily know, the documents in `Tale of adventureres` folder are safe to read for any character, the links contained within should be safe to read and contain no spoilers, they might just contain info that the character doesn't necessarily know. The documents in `Waterdeep/Volo's Waterdeep Enchiridion` are safe to read for any character as they come from a document that can easily be obtained by all of the party members.
-
 # Waterdeep: Dragon Heist
 Welcome to [[Waterdeep|Waterdeep, the Crown of the North]], where a wondrous tale of urban adventure is about to unfold. Our story begins with the gathering of adventurers at [[the Yawning Portal]] Inn and Tavern. [[Volothamp 'Volo' Geddarm|Volothamp Geddarm]], the famous explorer and raconteur, has a quest for them — one that entangles the characters in a bitter conflict between two nefarious organizations. If the adventurers complete his quest, Volo rewards them handsomely. Yet a much greater prize lies hidden somewhere in the City of Splendors, waiting to be claimed.
+
+![Waterdeep: Dragon Heist cover](https://www.dndbeyond.com/attachments/4/376/waterdeep-dragon-heist.jpg)
 
 ## Tale of Adventurers
 ### Foreword: Tales of Valor and Intrigue in Waterdeep
