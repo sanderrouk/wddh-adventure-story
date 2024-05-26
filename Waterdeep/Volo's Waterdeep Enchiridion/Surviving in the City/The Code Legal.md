@@ -6,4 +6,4 @@ Unlike in less civilized settlements, punishment for crimes in [[Waterdeep]] isn
 
 [[Waterdeep]] has a complex library of law and custom set by precedent, the main body of which can be read in the Code Legal. This document is available in multiple languages at the Palace of [[Waterdeep]], and (in the Common tongue) provided on request by the magisters at the gates and in the harbor. Be aware that the Code Legal provides only an outline of typical sentences for various offenses, and magisters have broad discretion when meting out justice as they see fit. Any Masked Lord can overturn a magister’s ruling, but there’s rarely a Masked Lord around when you need one.
 
-![[[City Watch]] member](https://www.dndbeyond.com/attachments/thumbnails/4/337/850/569/9003.png)
+![City Watch member](https://www.dndbeyond.com/attachments/thumbnails/4/337/850/569/9003.png)
