@@ -1,0 +1,2 @@
+![Nihiloor](https://www.dndbeyond.com/attachments/4/360/nihiloor.png)
+Nihiloor is a [[Mind flayer]], he seems to be well versed in controlling [[Intellect Devourer|Intellect Devourers]] and extracting information out of creatures. He seems to be connected to the [[Xanathar Guild]].

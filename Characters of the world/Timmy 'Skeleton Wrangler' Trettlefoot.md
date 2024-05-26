@@ -1,0 +1,13 @@
+Timmy Trettlefoot, a scrappy and spirited orphan, has been a familiar face in the [[Dock Ward]] of [[Waterdeep]] for as long as the locals can remember. Born to a pair of transient adventurers who disappeared into the [[Undermountain]] never to return, Timmy learned early on to fend for himself in the bustling streets of the city.
+
+Despite his circumstances, Timmy’s infectious smile and boundless curiosity endeared him to many. Known for his knack for finding the oddest treasures amidst the refuse and detritus of [[Waterdeep]]’s streets, he quickly earned a reputation as the [[Dock Ward]]’s little scavenger with a heart of gold. Whether it was a lost coin purse, a shiny trinket, or an unusual relic, Timmy had an uncanny ability to uncover hidden gems where others saw only trash.
+
+His latest escapade, however, would catapult him from a mere street urchin to a local hero. While playing near the sewers, a favorite haunt for the adventurous youngster, Timmy stumbled upon a scene straight out of an adventurer's tale. The sight of a dead [[Gazer]], an aberrant creature with a central eye and multiple stalks, caught his eye. Even more astonishing were the two skeletons—a human and a dwarf—washed out from the labyrinthine depths beneath [[Waterdeep]]. The human skeleton still clutched a rusty sword, almost as tall as Timmy himself, and both sets of remains were clad in mismatched armor, a testament to their unfortunate end.
+
+Timmy’s discovery was nothing short of sensational. His excited shouts brought the [[City Watch]] rushing to the scene, where Captain [[Hyustus Staget]] himself couldn’t help but chuckle at the boy’s extraordinary find. Dubbed the “Skeleton Wrangler” by the watchmen, Timmy reveled in the attention and admiration that followed.
+
+The [[Gazer]], with an arrow lodged comically in its central eye, was adopted by the local tavern, [[The Mermaids Arms]], and turned into a quirky mascot affectionately named "Winky." This unusual trophy now hangs above the bar, becoming a favorite attraction for patrons eager to hear the story of its discovery.
+
+Timmy’s life has changed dramatically since that fateful day. The [[Dock Ward]]’s little scavenger now enjoys free meals at [[The Mermaids Arms]] and dreams of future adventures. With his newfound fame, Timmy remains ever-optimistic, declaring to anyone who would listen that his next find might be even more incredible—perhaps a dragon egg, he muses with a mischievous glint in his eye.
+
+In a city as magical and unpredictable as [[Waterdeep]], young Timmy Trettlefoot embodies the spirit of adventure and wonder. His tale is a reminder that even in the most unexpected places, heroes can be found, and extraordinary discoveries await those with the heart and courage to seek them.

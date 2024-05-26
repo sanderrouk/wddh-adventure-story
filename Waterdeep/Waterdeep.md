@@ -33,7 +33,7 @@ _**Sea Ward.**_ Those whose fortunes are on the rise build their homes in Sea W
 
 _**Southern Ward.**_ Stables, warehouses, and shops related to overland trade dominate Southern Ward. Most residents are hardworking folk that load and unload caravan carts, and otherwise perform low-paying work.
 
-_**Trades Ward.**_ A narrow slice of land between the [[Castle Ward]] and the City of the Dead, Trades Ward is the center of commerce for the city, with most of the smaller transactions and respectable trade taking place here.
+_**[[Trades Ward]].**_ A narrow slice of land between the [[Castle Ward]] and the City of the Dead, [[Trades Ward]] is the center of commerce for the city, with most of the smaller transactions and respectable trade taking place here.
 
 _**City of the Dead.**_ The city’s walled cemetery, the City of the Dead is the only place in Waterdeep where it is legal to bury the deceased. It is used by many citizens as a public park during the day, a lovely green space of pretty mausoleums and grand statues in which to escape the city’s hustle and bustle.
 

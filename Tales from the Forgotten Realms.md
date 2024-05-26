@@ -16,7 +16,7 @@ Waterdeep: Dragon Heist is more than just an adventure; it is a saga of epic pro
 
 From the bustling taverns where secrets are whispered over mugs of ale to the treacherous depths of [[Undermountain]], where madness and magic reign supreme, each account offers a glimpse into the lives of those who dare to dream beyond the mundane. These stories of valor and wit, of cunning and courage, will transport you to a world where the stakes are high, and the rewards even higher.
 
-In the first article, we delve into the heroics at [[the Yawning Portal]] Inn, where a typical night of revelry turned into a harrowing battle against a monstrous troll. [[Durnan]], the stalwart barkeep, and four mysterious adventurers fought valiantly to protect the patrons from the terror that emerged from the infamous pit. Their actions not only saved lives but also sparked curiosity about the identities and motives of these enigmatic heroes.
+In the first article, we delve into the heroics at [[the Yawning Portal]] Inn, where a typical night of revelry turned into a harrowing battle against a monstrous [[troll]]. [[Durnan]], the stalwart barkeep, and four mysterious adventurers fought valiantly to protect the patrons from the terror that emerged from the infamous pit. Their actions not only saved lives but also sparked curiosity about the identities and motives of these enigmatic heroes.
 
 As you journey through these narratives, you will encounter the diverse cast of characters that make [[Waterdeep]] a city like no other. You will walk alongside those who seek glory and those who chase shadows, those who uphold the law and those who subvert it. Each story is a thread in the rich tapestry of Waterdeep: Dragon Heist, weaving a picture of a city alive with opportunity and peril.
 
@@ -28,3 +28,6 @@ Welcome to the adventure. Welcome to Waterdeep: Dragon Heist.
 Here is a collection of articles and first person accounts of the adventure so far:
 1. [[1. Durnan saves Day Again|Durnan saves the day, again]]
 2. [[2. Gangwar Erupts in the Dock Ward - City Watch Uncovers Bloody Scene|Gangwar Erupts in the Dock Ward - City Watch Uncovers Bloody Scene]]
+3. [[3. Sewer Shenanigans, Orphan Boy's Unlikely Discovery|Sewer Shenanigans, Orphan Boy's Unlikely Discovery]]
+4. [[4. Mystery Expansion at Peabody's Small House|Mystery Expansion at Peabody's Small House]]
+5. [[5. Volothamp Geddarm Teases New Book on Mysterious Adventures|Volothamp Geddarm Teases New Book on Mysterious Adventures]]
