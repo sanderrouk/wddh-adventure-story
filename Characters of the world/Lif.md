@@ -1,0 +1,5 @@
+In the heart of [[Waterdeep]], amidst the bustling charm of [[Trollskull Alley]], stands the storied [[Trollskull Manor]]. Centuries ago, when the manor was still young, it was cared for by a kind-hearted barkeep named Lif. Known for his warm smile and generous spirit, Lif was beloved by all who frequented the tavern. He took great pride in his work, ensuring every guest felt welcome and every corner of the manor gleamed with care.
+
+One fateful night, Lif was caught in a tragic accident while tending to a fire in the hearth. Though his body perished, his spirit remained bound to the manor, driven by an unwavering dedication to the place he loved. Over the years, many have reported glimpses of Lif, a gentle presence felt in the creak of floorboards or the sudden warmth of the hearth.
+
+Legend has it that those who care for [[Trollskull Manor]] as Lif did will find fortune smiling upon them. The ghostly barkeep, grateful for the respect shown to his beloved home, blesses the endeavors of those who maintain its splendor. Patrons claim that under Lif’s watchful eye, the ale tastes sweeter, the fires burn brighter, and the business flourishes.
