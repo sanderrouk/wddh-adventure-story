@@ -29,7 +29,7 @@ Since his dramatic rescue, Floon has continued to embrace his adventurous lifest
 
 #### Connections:
 
-- **Volothamp Geddarm:** Renowned explorer and storyteller, Volo is a close friend and confidant of Floon. Their shared love of adventure has strengthened their bond, with Volo often drawing inspiration from Floon's exploits.
+- **[[Volothamp 'Volo' Geddarm|Volothamp Geddarm]]:** Renowned explorer and storyteller, Volo is a close friend and confidant of Floon. Their shared love of adventure has strengthened their bond, with Volo often drawing inspiration from Floon's exploits.
 - **[[Renaer Neverember]]:** Another of Floon's close friends, Renaer is the son of the former Open Lord of Waterdeep. The two share a mutual respect and camaraderie, often finding themselves in the midst of the city's most thrilling events.
 
 #### Legacy:
