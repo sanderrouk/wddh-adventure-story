@@ -38,3 +38,5 @@ Here is a collection of articles and first person accounts of the adventure so f
 10. [[10. Beholders - Masters of the Eye and Mind|Beholders - Masters of the Eye and Mind]]
 11. [[11. Bronze Dragon Sightings in Deepwater Harbor|Bronze Dragon Sightings in Deepwater Harbor]]
 12. [[12. Mysterious Killings Plague Dock Ward|Mysterious Killings Plague Dock Ward]]
+13. [[13. Mystery Grips Waterdeep City Plunged into Perplexing Confusion|Mystery Grips Waterdeep City Plunged into Perplexing Confusion]]
+14. [[14. Manticore Sighting Stirs Alarm in Waterdeep Skies|Manticore Sighting Stirs Alarm in Waterdeep Skies]]
